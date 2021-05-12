@@ -13,8 +13,8 @@
 10. [ ] [《学会提问》](https://book.douban.com/subject/20428922/)
 11. [ ] [《激荡三十年·上》](https://book.douban.com/subject/1970428/)
 12. [ ] [《激荡三十年·下》](https://book.douban.com/subject/2380307/)
-13. [ ] [巴菲特的护城河](https://book.douban.com/subject/4100680/)
-14. [ ] [创新者的窘境](https://book.douban.com/subject/4243770/)
+13. [ ] [《巴菲特的护城河》](https://book.douban.com/subject/4100680/)
+14. [ ] [《创新者的窘境》](https://book.douban.com/subject/4243770/)
 
 ## Programming
 1. [ ] [《Python编程》](https://book.douban.com/subject/35196328/)
