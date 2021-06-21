@@ -1,4 +1,4 @@
-# 2021｜Reading Plan and Research Plan
+# 2021｜Learning Plan
 
 ## Investment
 1. [ ] [《投资中最简单的事》](https://book.douban.com/subject/35000951/) notes：在读
