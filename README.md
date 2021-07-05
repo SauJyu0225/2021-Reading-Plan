@@ -15,6 +15,12 @@
 12. [ ] [《激荡三十年·下》](https://book.douban.com/subject/2380307/)
 13. [ ] [《巴菲特的护城河》](https://book.douban.com/subject/4100680/)
 14. [ ] [《创新者的窘境》](https://book.douban.com/subject/4243770/)
+15. [ ] [《涛动周期论》](https://book.douban.com/subject/27599114/)
+16. [ ] [《影响力》](https://book.douban.com/subject/1005576/)
+17. [ ] [《Trump: The Art of the Deal》](https://book.douban.com/subject/35002595/)
+18. [ ] [《乌合之众》](https://book.douban.com/subject/26784663/)
+19. [ ] [《大败局》](https://book.douban.com/subject/1072438/)
+20. [ ] [《大败局 II》](https://book.douban.com/subject/2064450/)
 
 ## CFA
 1. [ ] [Level 1] 2021.02
