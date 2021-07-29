@@ -7,7 +7,7 @@
 4. [x] [《风险投资交易》](https://book.douban.com/subject/26357758/) notes: 第一遍通读完成；第二遍做笔记ing
 5. [ ] [《策略投资》](https://book.douban.com/subject/10568233/)
 6. [ ] [《价值评估》](https://book.douban.com/subject/2015368/)
-7. [ ] [《金字塔原理》](https://book.douban.com/subject/33391219/)
+7. [ ] [《金字塔原理》](https://book.douban.com/subject/33391219/) notes：在读
 8. [ ] [《好好学习》](https://book.douban.com/subject/26952718/)
 9. [ ] [《把时间当朋友》](https://book.douban.com/subject/25749845/)
 10. [ ] [《学会提问》](https://book.douban.com/subject/20428922/)
