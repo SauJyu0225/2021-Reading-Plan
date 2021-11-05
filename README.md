@@ -21,6 +21,7 @@
 18. [ ] [《乌合之众》](https://book.douban.com/subject/26784663/)
 19. [ ] [《大败局》](https://book.douban.com/subject/1072438/)
 20. [ ] [《大败局 II》](https://book.douban.com/subject/2064450/)
+21. [ ] [《模型思维》](https://book.douban.com/subject/34893628/)
 
 ## CFA
 1. [ ] [Level 1] 2021.02
