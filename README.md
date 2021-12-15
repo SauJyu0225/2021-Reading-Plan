@@ -35,7 +35,7 @@
 
 ## Programming
 1. [ ] [《Python编程》](https://book.douban.com/subject/35196328/)
-2. [ ] [Web前端](https://www.bilibili.com/read/cv5650633?spm_id_from=333.788.b_636f6d6d656e74.7)
+2. [ ] [ Web前端](https://www.bilibili.com/read/cv5650633?spm_id_from=333.788.b_636f6d6d656e74.7)
 
 
 ## VR/AR Industry
