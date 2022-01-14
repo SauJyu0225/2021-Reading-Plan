@@ -1,4 +1,4 @@
-# 2021｜Learning Plan
+# 2022｜Learning Plan
 
 ## Investment
 1. [ ] [《投资中最简单的事》](https://book.douban.com/subject/35000951/) notes：在读
@@ -22,6 +22,11 @@
 19. [ ] [《大败局》](https://book.douban.com/subject/1072438/)
 20. [ ] [《大败局 II》](https://book.douban.com/subject/2064450/)
 21. [ ] [《模型思维》](https://book.douban.com/subject/34893628/)
+22. [ ] [《你的形象价值百万》](https://book.douban.com/subject/1263921/)
+23. [ ] [《心流》](https://book.douban.com/subject/27186106/)
+24. [ ] [《战略情报的批判性思维》](https://book.douban.com/subject/26775447/)
+25. [ ] [《哪有没时间这回事》](https://book.douban.com/subject/35719499/)
+26. [ ] [《被讨厌的勇气》](https://book.douban.com/subject/26896107/)
 
 ## CFA
 1. [ ] [Level 1] 2021.02
