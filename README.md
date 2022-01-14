@@ -27,6 +27,8 @@
 24. [ ] [《战略情报的批判性思维》](https://book.douban.com/subject/26775447/)
 25. [ ] [《哪有没时间这回事》](https://book.douban.com/subject/35719499/)
 26. [ ] [《被讨厌的勇气》](https://book.douban.com/subject/26896107/)
+27. [ ] [《投资估价-共两册》](https://book.douban.com/subject/25975746/)
+28. [ ] [《估值建模》](https://book.douban.com/subject/6717799/)
 
 ## CFA
 1. [ ] [Level 1] 2021.02
